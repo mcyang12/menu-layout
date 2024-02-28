@@ -13,13 +13,14 @@ body {
 img {
     height: 300px;
 }
-.container {
-    max-width: 200px;
-    margin-left: center;
-    margin-right:center;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    background-size: center;
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    padding: 30px;
 }
 
 header {
