@@ -10,9 +10,9 @@ body {
     background-size: cover;
     background-position: 100%;
 }
+
 img {
     height: 300px;
-    width: 100%;
 }
 
 .row {
