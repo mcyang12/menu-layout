@@ -10,7 +10,9 @@ body {
     background-size: cover;
     background-position: 100%;
 }
-
+img {
+    height: 300px;
+}
 .container {
     max-width: 200px;
     margin-left: center;
