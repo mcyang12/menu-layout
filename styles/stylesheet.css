@@ -4,10 +4,11 @@ body {
 
 .hero {
     background-color: #6e6868;
-    background-image: url("../styles/imgs/earl-grey-macarons.jpg");
-    padding-top: 200px;
-    padding-bottom: 200px;
-    background-position: 0%;
+    background-image: url("../styles/imgs/Chocolate-Macarons.jpg");
+    padding-top: 300px;
+    padding-bottom: 300px;
+    background-size: cover;
+    background-position: 100%;
 }
 
 .container {
@@ -19,9 +20,9 @@ body {
 }
 
 header {
-    background-color: rgb(251, 218, 168);
     text-align: center;
     font-style: italic;
+    color: #ffffff;
 }
 
 main {
